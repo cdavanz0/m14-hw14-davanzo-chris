@@ -5,14 +5,14 @@ h1 {
 }
 
 img {
-	float: right;
+	float: left;
 	max-width: 350px;
 	margin-top: 155px;
 	margin-bottom: 15px;
 }
 
 section {
-	float: left;
+	float: center;
 	max-width: 600px;
 	text-align: center;
 	font-size: 20px;
