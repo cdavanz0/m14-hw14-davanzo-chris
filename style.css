@@ -12,12 +12,12 @@ nav {
 img {
 	float: right;
 	max-width: 350px;
-	margin-top: 175px;
+	margin-top: 155px;
 }
 
 section {
 	float: left;
 	max-width: 700px;
-	text-align: left;
+	text-align: center;
 	font-size: 20px;
 }
